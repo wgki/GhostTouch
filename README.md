@@ -24,4 +24,6 @@ Here are **video demos** showing the real-world impact of the GhostTouchAttack.
 
 <img src=./demo/bluetooth.gif width="500px" />
 
-
+- Attack at a distance of 40mm
+  
+<img src=./demo/attack40mm.gif width="500px" />
